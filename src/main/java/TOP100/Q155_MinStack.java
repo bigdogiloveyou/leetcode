@@ -1,7 +1,6 @@
 package TOP100;
 
-
-import java.util.*;
+import java.util.Stack;
 
 /**
  * @author xushu
